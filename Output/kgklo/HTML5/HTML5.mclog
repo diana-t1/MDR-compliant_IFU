@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-05-23T03:50:24.2062471+02:00" Branch="master" Commit="3e90abdce5f76ff8e4760c1e15163f2506863c26">
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-05-23T08:12:16.9398687+02:00" Branch="master" Commit="4d16eb78de7b36cf627e8d995443c9455194a1cf">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -109,12 +109,680 @@ Writing search entry cache...
 Generating final output...
 Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
-Generated Default.htm
+Generated index.html
 Saving result set...
 Ignored Compiler Warnings: 10
-Output generated in 9 second(s).
+Output generated in 8 second(s).
 
 Done
+Publishing target HTML5...
+Connecting...
+Already up to date.
+Downloading log...
+Uploading changed files...
+Uploading csh.js... succeeded.
+Uploading index.html... succeeded.
+Uploading index.js... succeeded.
+Uploading index.mcwebhelp... succeeded.
+Uploading index_CSH.html... succeeded.
+Uploading Content/Home.htm... succeeded.
+Uploading Content/Search.htm... succeeded.
+Uploading Content/Template Instructions.pdf... succeeded.
+Uploading Content/A_MDR_basics/Is_this_guide_for_You.htm... succeeded.
+Uploading Content/A_MDR_basics/MDR_basics.htm... succeeded.
+Uploading Content/A_MDR_basics/What_is_IFU.htm... succeeded.
+Uploading Content/A_MDR_basics/What_is_MDR.htm... succeeded.
+Uploading Content/A_MDR_basics/Why_is_it_important.htm... succeeded.
+Uploading Content/B_MDR_requirements/Applicable_medical_device_classes.htm... succeeded.
+Uploading Content/B_MDR_requirements/Key_MDR_compliance_criteria.htm... succeeded.
+Uploading Content/B_MDR_requirements/Understanding_MDR_requirements.htm... succeeded.
+Uploading Content/C_Gathering_information/Gathering_information.htm... succeeded.
+Uploading Content/D_What_to_consider/Accessibility.htm... succeeded.
+Uploading Content/D_What_to_consider/Language_and_translation.htm... succeeded.
+Uploading Content/D_What_to_consider/Publishing_format.htm... succeeded.
+Uploading Content/D_What_to_consider/What_to_consider.htm... succeeded.
+Uploading Content/E_How_to_build_IFU/Clear_warnings.htm... succeeded.
+Uploading Content/E_How_to_build_IFU/Essential_info.htm... succeeded.
+Uploading Content/E_How_to_build_IFU/How_to_build_IFU.htm... succeeded.
+Uploading Content/E_How_to_build_IFU/Maintenance_cleaning_disposal.htm... succeeded.
+Uploading Content/E_How_to_build_IFU/Step_by_step_instructions.htm... succeeded.
+Uploading Content/F_Helpful_resources/Helpful_resources.htm... succeeded.
+Uploading Content/Introduction-Topics/Introduction.htm... succeeded.
+Uploading Content/Introduction-Topics/Optional-Sections.htm... succeeded.
+Uploading Content/Introduction-Topics/Philosophy.htm... succeeded.
+Uploading Content/Introduction-Topics/Welcome.htm... succeeded.
+Uploading Content/Resources/Images/Backmatter-Heading-Background.png... succeeded.
+Uploading Content/Resources/Images/Hero-Background.jpg... succeeded.
+Uploading Content/Resources/Images/Icon-Checkbox.png... succeeded.
+Uploading Content/Resources/Images/Icon-Download.png... succeeded.
+Uploading Content/Resources/Images/Icon-Forum.png... succeeded.
+Uploading Content/Resources/Images/Icon-Gears.png... succeeded.
+Uploading Content/Resources/Images/Icon-PDFs.png... succeeded.
+Uploading Content/Resources/Images/Icon-Popular-Topics.png... succeeded.
+Uploading Content/Resources/Images/Icon-Videos.png... succeeded.
+Uploading Content/Resources/Images/Image-Cover.png... succeeded.
+Uploading Content/Resources/Images/Logo.png... succeeded.
+Uploading Content/Resources/Images/Logo1.png... succeeded.
+Uploading Content/Resources/Images/Minus.png... succeeded.
+Uploading Content/Resources/Images/Plus.png... succeeded.
+Uploading Content/Resources/Images/Assets/HeroImage/staticbackgroundimage.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-white_26x26.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-download.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-faq.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-forum.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-pdf.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white_25x25.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/git2.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/git2_29x29.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/GitHub_icon-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/GitHub_icon.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-white_29x29.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-arrowLeft-16x16.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-arrowRight-16x16.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-print-16x16-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png... succeeded.
+Uploading Content/Resources/Images/Custom/close-up-nurse-2.jpg... succeeded.
+Uploading Content/Resources/Images/Custom/close-up-nurse.jpg... succeeded.
+Uploading Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes.jpg... succeeded.
+Uploading Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes_584x203.jpg... succeeded.
+Uploading Content/Resources/Images/Custom/ISO_7010_M002.svg.png... succeeded.
+Uploading Content/Resources/Images/Custom/ISO_7010_M002.svg_214x214.png... succeeded.
+Uploading Content/Resources/Images/Custom/language_req_diagram.png... succeeded.
+Uploading Content/Resources/Images/Custom/MDR_classification.png... succeeded.
+Uploading Content/Resources/Images/Custom/title_logo.png... succeeded.
+Uploading Content/Resources/Images/Custom/title_logo_EU.png... succeeded.
+Uploading Content/Resources/Stylesheets/Styles.css... succeeded.
+Uploading Content/Resources/TableStylesheets/Alternate-Row-Color.css... succeeded.
+Uploading Content/Resources/TableStylesheets/Footer_table.css... succeeded.
+Uploading Content/Resources/TableStylesheets/MainTableStyle.css... succeeded.
+Uploading Data/Breakpoints.js... succeeded.
+Uploading Data/Concepts.js... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/Index.js... succeeded.
+Uploading Data/Index_Chunk0.js... succeeded.
+Uploading Data/Language.js... succeeded.
+Uploading Data/MicroContentScopes.js... succeeded.
+Uploading Data/Search.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/SearchPhrase_Chunk1.js... succeeded.
+Uploading Data/SearchPhrase_Chunk2.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchTopic_Chunk0.js... succeeded.
+Uploading Data/SearchUrl_Chunk0.js... succeeded.
+Uploading Data/Synonyms.js... succeeded.
+Uploading Data/Synonyms.xml... succeeded.
+Uploading Data/Tocs/TOC.js... succeeded.
+Uploading Data/Tocs/TOC_Chunk0.js... succeeded.
+Uploading Resources/Scripts/foundation.6.2.3_custom.js... succeeded.
+Uploading Resources/Scripts/jquery.min.js... succeeded.
+Uploading Resources/Scripts/MadCapAll.js... succeeded.
+Uploading Resources/Scripts/plugins.min.js... succeeded.
+Uploading Resources/Scripts/purify.min.js... succeeded.
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Resources/Scripts/require.min.js... succeeded.
+Uploading Resources/Scripts/stemmer-english.amd.min.js... succeeded.
+Uploading Skins/Default/Stylesheets/Minus.png... succeeded.
+Uploading Skins/Default/Stylesheets/Plus.png... succeeded.
+Uploading Skins/Default/Stylesheets/Slideshow.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.micro-content.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.micro-content.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Mobile.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Print.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Styles.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Tablet.css... succeeded.
+Uploading Skins/Default/Stylesheets/Images/arrow-down.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/arrow-up.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/close.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/collapse.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/edit-profile.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/expand.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/help-control.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/highlight.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/icon-user-gray.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/icon-user-light-gray.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/loading.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login-dialog-icon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_controls.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_loader.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-next.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-previous.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/printer.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/SearchIcon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-language.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-skin.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-empty.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-full.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/transparent.gif... succeeded.
+Uploading Skins/Fluid/Stylesheets/foundation.6.2.3.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Mobile.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Print.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Styles.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Tablet.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/arrow-down.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/arrow-up.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-filter-selected.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-filter.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-remove.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-search.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/title_logo_EU.png... succeeded.
+Removing old files...
+Uploading log...
+Adding: csh.js
+Checking in: csh.js
+Checking in: index.html
+Adding: index.js
+Checking in: index.js
+Adding: index.mcwebhelp
+Checking in: index.mcwebhelp
+Checking in: index_CSH.html
+Adding: Content/Home.htm
+Checking in: Content/Home.htm
+Adding: Content/Search.htm
+Checking in: Content/Search.htm
+Adding: Content/Template Instructions.pdf
+Checking in: Content/Template Instructions.pdf
+Adding: Content/A_MDR_basics/Is_this_guide_for_You.htm
+Checking in: Content/A_MDR_basics/Is_this_guide_for_You.htm
+Adding: Content/A_MDR_basics/MDR_basics.htm
+Checking in: Content/A_MDR_basics/MDR_basics.htm
+Adding: Content/A_MDR_basics/What_is_IFU.htm
+Checking in: Content/A_MDR_basics/What_is_IFU.htm
+Adding: Content/A_MDR_basics/What_is_MDR.htm
+Checking in: Content/A_MDR_basics/What_is_MDR.htm
+Adding: Content/A_MDR_basics/Why_is_it_important.htm
+Checking in: Content/A_MDR_basics/Why_is_it_important.htm
+Adding: Content/B_MDR_requirements/Applicable_medical_device_classes.htm
+Checking in: Content/B_MDR_requirements/Applicable_medical_device_classes.htm
+Adding: Content/B_MDR_requirements/Key_MDR_compliance_criteria.htm
+Checking in: Content/B_MDR_requirements/Key_MDR_compliance_criteria.htm
+Adding: Content/B_MDR_requirements/Understanding_MDR_requirements.htm
+Checking in: Content/B_MDR_requirements/Understanding_MDR_requirements.htm
+Adding: Content/C_Gathering_information/Gathering_information.htm
+Checking in: Content/C_Gathering_information/Gathering_information.htm
+Adding: Content/D_What_to_consider/Accessibility.htm
+Checking in: Content/D_What_to_consider/Accessibility.htm
+Adding: Content/D_What_to_consider/Language_and_translation.htm
+Checking in: Content/D_What_to_consider/Language_and_translation.htm
+Adding: Content/D_What_to_consider/Publishing_format.htm
+Checking in: Content/D_What_to_consider/Publishing_format.htm
+Adding: Content/D_What_to_consider/What_to_consider.htm
+Checking in: Content/D_What_to_consider/What_to_consider.htm
+Adding: Content/E_How_to_build_IFU/Clear_warnings.htm
+Checking in: Content/E_How_to_build_IFU/Clear_warnings.htm
+Adding: Content/E_How_to_build_IFU/Essential_info.htm
+Checking in: Content/E_How_to_build_IFU/Essential_info.htm
+Adding: Content/E_How_to_build_IFU/How_to_build_IFU.htm
+Checking in: Content/E_How_to_build_IFU/How_to_build_IFU.htm
+Adding: Content/E_How_to_build_IFU/Maintenance_cleaning_disposal.htm
+Checking in: Content/E_How_to_build_IFU/Maintenance_cleaning_disposal.htm
+Adding: Content/E_How_to_build_IFU/Step_by_step_instructions.htm
+Checking in: Content/E_How_to_build_IFU/Step_by_step_instructions.htm
+Adding: Content/F_Helpful_resources/Helpful_resources.htm
+Checking in: Content/F_Helpful_resources/Helpful_resources.htm
+Adding: Content/Introduction-Topics/Introduction.htm
+Checking in: Content/Introduction-Topics/Introduction.htm
+Adding: Content/Introduction-Topics/Optional-Sections.htm
+Checking in: Content/Introduction-Topics/Optional-Sections.htm
+Adding: Content/Introduction-Topics/Philosophy.htm
+Checking in: Content/Introduction-Topics/Philosophy.htm
+Adding: Content/Introduction-Topics/Welcome.htm
+Checking in: Content/Introduction-Topics/Welcome.htm
+Adding: Content/Resources/Images/Backmatter-Heading-Background.png
+Checking in: Content/Resources/Images/Backmatter-Heading-Background.png
+Adding: Content/Resources/Images/Hero-Background.jpg
+Checking in: Content/Resources/Images/Hero-Background.jpg
+Adding: Content/Resources/Images/Icon-Checkbox.png
+Checking in: Content/Resources/Images/Icon-Checkbox.png
+Adding: Content/Resources/Images/Icon-Download.png
+Checking in: Content/Resources/Images/Icon-Download.png
+Adding: Content/Resources/Images/Icon-Forum.png
+Checking in: Content/Resources/Images/Icon-Forum.png
+Adding: Content/Resources/Images/Icon-Gears.png
+Checking in: Content/Resources/Images/Icon-Gears.png
+Adding: Content/Resources/Images/Icon-PDFs.png
+Checking in: Content/Resources/Images/Icon-PDFs.png
+Adding: Content/Resources/Images/Icon-Popular-Topics.png
+Checking in: Content/Resources/Images/Icon-Popular-Topics.png
+Adding: Content/Resources/Images/Icon-Videos.png
+Checking in: Content/Resources/Images/Icon-Videos.png
+Adding: Content/Resources/Images/Image-Cover.png
+Checking in: Content/Resources/Images/Image-Cover.png
+Adding: Content/Resources/Images/Logo.png
+Checking in: Content/Resources/Images/Logo.png
+Adding: Content/Resources/Images/Logo1.png
+Checking in: Content/Resources/Images/Logo1.png
+Adding: Content/Resources/Images/Minus.png
+Checking in: Content/Resources/Images/Minus.png
+Adding: Content/Resources/Images/Plus.png
+Checking in: Content/Resources/Images/Plus.png
+Adding: Content/Resources/Images/Assets/HeroImage/staticbackgroundimage.png
+Checking in: Content/Resources/Images/Assets/HeroImage/staticbackgroundimage.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png
+Adding: Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Clients-white_26x26.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Clients-white_26x26.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-download.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-download.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-faq.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-faq.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-forum.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-forum.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-pdf.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/icon-circle-pdf.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white_25x25.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white_25x25.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png
+Adding: Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png
+Checking in: Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/git2.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/git2.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/git2_29x29.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/git2_29x29.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/GitHub_icon-white.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/GitHub_icon-white.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/GitHub_icon.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/GitHub_icon.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/LI-white_29x29.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/LI-white_29x29.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png
+Adding: Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png
+Checking in: Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png
+Adding: Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-arrowLeft-16x16.png
+Checking in: Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-arrowLeft-16x16.png
+Adding: Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-arrowRight-16x16.png
+Checking in: Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-arrowRight-16x16.png
+Adding: Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-print-16x16-gray.png
+Checking in: Content/Resources/Images/Assets/Icons/ToolbarIcons/icon-print-16x16-gray.png
+Adding: Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png
+Checking in: Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-gray.png
+Adding: Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png
+Checking in: Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png
+Adding: Content/Resources/Images/Custom/close-up-nurse-2.jpg
+Checking in: Content/Resources/Images/Custom/close-up-nurse-2.jpg
+Adding: Content/Resources/Images/Custom/close-up-nurse.jpg
+Checking in: Content/Resources/Images/Custom/close-up-nurse.jpg
+Adding: Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes.jpg
+Checking in: Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes.jpg
+Adding: Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes_584x203.jpg
+Checking in: Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes_584x203.jpg
+Adding: Content/Resources/Images/Custom/ISO_7010_M002.svg.png
+Checking in: Content/Resources/Images/Custom/ISO_7010_M002.svg.png
+Adding: Content/Resources/Images/Custom/ISO_7010_M002.svg_214x214.png
+Checking in: Content/Resources/Images/Custom/ISO_7010_M002.svg_214x214.png
+Adding: Content/Resources/Images/Custom/language_req_diagram.png
+Checking in: Content/Resources/Images/Custom/language_req_diagram.png
+Adding: Content/Resources/Images/Custom/MDR_classification.png
+Checking in: Content/Resources/Images/Custom/MDR_classification.png
+Adding: Content/Resources/Images/Custom/title_logo.png
+Checking in: Content/Resources/Images/Custom/title_logo.png
+Adding: Content/Resources/Images/Custom/title_logo_EU.png
+Checking in: Content/Resources/Images/Custom/title_logo_EU.png
+Adding: Content/Resources/Stylesheets/Styles.css
+Checking in: Content/Resources/Stylesheets/Styles.css
+Adding: Content/Resources/TableStylesheets/Alternate-Row-Color.css
+Checking in: Content/Resources/TableStylesheets/Alternate-Row-Color.css
+Adding: Content/Resources/TableStylesheets/Footer_table.css
+Checking in: Content/Resources/TableStylesheets/Footer_table.css
+Adding: Content/Resources/TableStylesheets/MainTableStyle.css
+Checking in: Content/Resources/TableStylesheets/MainTableStyle.css
+Adding: Data/Breakpoints.js
+Checking in: Data/Breakpoints.js
+Adding: Data/Concepts.js
+Checking in: Data/Concepts.js
+Adding: Data/HelpSystem.js
+Checking in: Data/HelpSystem.js
+Checking in: Data/HelpSystem.xml
+Adding: Data/Index.js
+Checking in: Data/Index.js
+Adding: Data/Index_Chunk0.js
+Checking in: Data/Index_Chunk0.js
+Adding: Data/Language.js
+Checking in: Data/Language.js
+Adding: Data/MicroContentScopes.js
+Checking in: Data/MicroContentScopes.js
+Adding: Data/Search.js
+Checking in: Data/Search.js
+Adding: Data/SearchPhrase_Chunk0.js
+Checking in: Data/SearchPhrase_Chunk0.js
+Adding: Data/SearchPhrase_Chunk1.js
+Checking in: Data/SearchPhrase_Chunk1.js
+Adding: Data/SearchPhrase_Chunk2.js
+Checking in: Data/SearchPhrase_Chunk2.js
+Adding: Data/SearchStem_Chunk0.js
+Checking in: Data/SearchStem_Chunk0.js
+Adding: Data/SearchTopic_Chunk0.js
+Checking in: Data/SearchTopic_Chunk0.js
+Adding: Data/SearchUrl_Chunk0.js
+Checking in: Data/SearchUrl_Chunk0.js
+Adding: Data/Synonyms.js
+Checking in: Data/Synonyms.js
+Adding: Data/Synonyms.xml
+Checking in: Data/Synonyms.xml
+Adding: Data/Tocs/TOC.js
+Checking in: Data/Tocs/TOC.js
+Adding: Data/Tocs/TOC_Chunk0.js
+Checking in: Data/Tocs/TOC_Chunk0.js
+Adding: Resources/Scripts/foundation.6.2.3_custom.js
+Checking in: Resources/Scripts/foundation.6.2.3_custom.js
+Adding: Resources/Scripts/jquery.min.js
+Checking in: Resources/Scripts/jquery.min.js
+Adding: Resources/Scripts/MadCapAll.js
+Checking in: Resources/Scripts/MadCapAll.js
+Adding: Resources/Scripts/plugins.min.js
+Checking in: Resources/Scripts/plugins.min.js
+Adding: Resources/Scripts/purify.min.js
+Checking in: Resources/Scripts/purify.min.js
+Adding: Resources/Scripts/require.config.js
+Checking in: Resources/Scripts/require.config.js
+Adding: Resources/Scripts/require.min.js
+Checking in: Resources/Scripts/require.min.js
+Adding: Resources/Scripts/stemmer-english.amd.min.js
+Checking in: Resources/Scripts/stemmer-english.amd.min.js
+Adding: Skins/Default/Stylesheets/Minus.png
+Checking in: Skins/Default/Stylesheets/Minus.png
+Adding: Skins/Default/Stylesheets/Plus.png
+Checking in: Skins/Default/Stylesheets/Plus.png
+Adding: Skins/Default/Stylesheets/Slideshow.css
+Checking in: Skins/Default/Stylesheets/Slideshow.css
+Adding: Skins/Default/Stylesheets/TextEffects.css
+Checking in: Skins/Default/Stylesheets/TextEffects.css
+Adding: Skins/Default/Stylesheets/TextEffects.micro-content.css
+Checking in: Skins/Default/Stylesheets/TextEffects.micro-content.css
+Adding: Skins/Default/Stylesheets/Topic.css
+Checking in: Skins/Default/Stylesheets/Topic.css
+Adding: Skins/Default/Stylesheets/Topic.micro-content.css
+Checking in: Skins/Default/Stylesheets/Topic.micro-content.css
+Adding: Skins/Default/Stylesheets/Components/Mobile.css
+Checking in: Skins/Default/Stylesheets/Components/Mobile.css
+Adding: Skins/Default/Stylesheets/Components/Print.css
+Checking in: Skins/Default/Stylesheets/Components/Print.css
+Adding: Skins/Default/Stylesheets/Components/Styles.css
+Checking in: Skins/Default/Stylesheets/Components/Styles.css
+Adding: Skins/Default/Stylesheets/Components/Tablet.css
+Checking in: Skins/Default/Stylesheets/Components/Tablet.css
+Adding: Skins/Default/Stylesheets/Images/arrow-down.png
+Checking in: Skins/Default/Stylesheets/Images/arrow-down.png
+Adding: Skins/Default/Stylesheets/Images/arrow-up.png
+Checking in: Skins/Default/Stylesheets/Images/arrow-up.png
+Adding: Skins/Default/Stylesheets/Images/close.png
+Checking in: Skins/Default/Stylesheets/Images/close.png
+Adding: Skins/Default/Stylesheets/Images/collapse.png
+Checking in: Skins/Default/Stylesheets/Images/collapse.png
+Adding: Skins/Default/Stylesheets/Images/edit-profile.png
+Checking in: Skins/Default/Stylesheets/Images/edit-profile.png
+Adding: Skins/Default/Stylesheets/Images/expand.png
+Checking in: Skins/Default/Stylesheets/Images/expand.png
+Adding: Skins/Default/Stylesheets/Images/Filter.png
+Checking in: Skins/Default/Stylesheets/Images/Filter.png
+Adding: Skins/Default/Stylesheets/Images/FilterOutline.png
+Checking in: Skins/Default/Stylesheets/Images/FilterOutline.png
+Adding: Skins/Default/Stylesheets/Images/help-control.png
+Checking in: Skins/Default/Stylesheets/Images/help-control.png
+Adding: Skins/Default/Stylesheets/Images/highlight.png
+Checking in: Skins/Default/Stylesheets/Images/highlight.png
+Adding: Skins/Default/Stylesheets/Images/icon-user-gray.png
+Checking in: Skins/Default/Stylesheets/Images/icon-user-gray.png
+Adding: Skins/Default/Stylesheets/Images/icon-user-light-gray.png
+Checking in: Skins/Default/Stylesheets/Images/icon-user-light-gray.png
+Adding: Skins/Default/Stylesheets/Images/loading.gif
+Checking in: Skins/Default/Stylesheets/Images/loading.gif
+Adding: Skins/Default/Stylesheets/Images/login-dialog-icon.png
+Checking in: Skins/Default/Stylesheets/Images/login-dialog-icon.png
+Adding: Skins/Default/Stylesheets/Images/login.png
+Checking in: Skins/Default/Stylesheets/Images/login.png
+Adding: Skins/Default/Stylesheets/Images/MCSlider_controls.png
+Checking in: Skins/Default/Stylesheets/Images/MCSlider_controls.png
+Adding: Skins/Default/Stylesheets/Images/MCSlider_loader.gif
+Checking in: Skins/Default/Stylesheets/Images/MCSlider_loader.gif
+Adding: Skins/Default/Stylesheets/Images/navigate-next.png
+Checking in: Skins/Default/Stylesheets/Images/navigate-next.png
+Adding: Skins/Default/Stylesheets/Images/navigate-previous.png
+Checking in: Skins/Default/Stylesheets/Images/navigate-previous.png
+Adding: Skins/Default/Stylesheets/Images/printer.png
+Checking in: Skins/Default/Stylesheets/Images/printer.png
+Adding: Skins/Default/Stylesheets/Images/SearchIcon.png
+Checking in: Skins/Default/Stylesheets/Images/SearchIcon.png
+Adding: Skins/Default/Stylesheets/Images/select-language.png
+Checking in: Skins/Default/Stylesheets/Images/select-language.png
+Adding: Skins/Default/Stylesheets/Images/select-skin.png
+Checking in: Skins/Default/Stylesheets/Images/select-skin.png
+Adding: Skins/Default/Stylesheets/Images/star-empty.png
+Checking in: Skins/Default/Stylesheets/Images/star-empty.png
+Adding: Skins/Default/Stylesheets/Images/star-full.png
+Checking in: Skins/Default/Stylesheets/Images/star-full.png
+Adding: Skins/Default/Stylesheets/Images/transparent.gif
+Checking in: Skins/Default/Stylesheets/Images/transparent.gif
+Adding: Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Checking in: Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Adding: Skins/Fluid/Stylesheets/Mobile.css
+Checking in: Skins/Fluid/Stylesheets/Mobile.css
+Adding: Skins/Fluid/Stylesheets/Print.css
+Checking in: Skins/Fluid/Stylesheets/Print.css
+Adding: Skins/Fluid/Stylesheets/Styles.css
+Checking in: Skins/Fluid/Stylesheets/Styles.css
+Adding: Skins/Fluid/Stylesheets/Tablet.css
+Checking in: Skins/Fluid/Stylesheets/Tablet.css
+Adding: Skins/Fluid/Stylesheets/Images/arrow-down.png
+Checking in: Skins/Fluid/Stylesheets/Images/arrow-down.png
+Adding: Skins/Fluid/Stylesheets/Images/arrow-up.png
+Checking in: Skins/Fluid/Stylesheets/Images/arrow-up.png
+Adding: Skins/Fluid/Stylesheets/Images/Filter.png
+Checking in: Skins/Fluid/Stylesheets/Images/Filter.png
+Adding: Skins/Fluid/Stylesheets/Images/FilterOutline.png
+Checking in: Skins/Fluid/Stylesheets/Images/FilterOutline.png
+Adding: Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png
+Checking in: Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png
+Adding: Skins/Fluid/Stylesheets/Images/icon-filter-selected.png
+Checking in: Skins/Fluid/Stylesheets/Images/icon-filter-selected.png
+Adding: Skins/Fluid/Stylesheets/Images/icon-filter.png
+Checking in: Skins/Fluid/Stylesheets/Images/icon-filter.png
+Adding: Skins/Fluid/Stylesheets/Images/icon-remove.png
+Checking in: Skins/Fluid/Stylesheets/Images/icon-remove.png
+Adding: Skins/Fluid/Stylesheets/Images/icon-search.png
+Checking in: Skins/Fluid/Stylesheets/Images/icon-search.png
+Adding: Skins/Fluid/Stylesheets/Images/icon-topic.png
+Checking in: Skins/Fluid/Stylesheets/Images/icon-topic.png
+Adding: Skins/Fluid/Stylesheets/Images/icon-user-white.png
+Checking in: Skins/Fluid/Stylesheets/Images/icon-user-white.png
+Adding: Skins/Fluid/Stylesheets/Images/Menu.png
+Checking in: Skins/Fluid/Stylesheets/Images/Menu.png
+Adding: Skins/Fluid/Stylesheets/Images/title_logo_EU.png
+Checking in: Skins/Fluid/Stylesheets/Images/title_logo_EU.png
+Adding: HTML5.4.log.zip
+Checking in: HTML5.4.log.zip
+Publish completed successfully.
+Publish complete.
 Saving log to "C:\Users\kgklo\Desktop\KOMUNIKACJA TECHNICZNA\Projekt końcowy\MDR_manual\Output\kgklo\HTML5\HTML5.mclog"
 </Messages>
     <Warnings />
