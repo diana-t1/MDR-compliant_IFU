@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\kgklo\Desktop\KOMUNIKACJA TECHNICZNA\Projekt końcowy\MDR_manual\docs"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Users/kgklo/Desktop/KOMUNIKACJA TECHNICZNA/Projekt końcowy/MDR_manual/.git/"
+  DatabaseRoot="file:///C:/Users/kgklo/Desktop/KOMUNIKACJA TECHNICZNA/Projekt końcowy/MDR_manual/docs"></CatapultDestination>
