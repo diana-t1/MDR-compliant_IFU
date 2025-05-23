@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/A_MDR_basics/What_is_MDR.htm" />
+    <Link
+      Url="Content/A_MDR_basics/What_is_IFU.htm" />
+    <Link
+      Url="Content/A_MDR_basics/Is_this_guide_for_You.htm" />
+    <Link
+      Url="Content/A_MDR_basics/Why_is_it_important.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/A_MDR_basics/What_is_MDR.htm" />
+    <Link
+      Url="Content/A_MDR_basics/What_is_IFU.htm" />
+    <Link
+      Url="Content/A_MDR_basics/Is_this_guide_for_You.htm" />
+    <Link
+      Url="Content/A_MDR_basics/Why_is_it_important.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

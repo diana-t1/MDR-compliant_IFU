@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStylesheets/Footer_table.css" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+    <Link
+      Url="https://eur-lex.europa.eu/search.html" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="http://linkedin.com/in/turowskadi/" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+    <Link
+      Url="http://github.com/diana-t1" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/SocialMedia/git2.png" />
+    <Link
+      Url="Content/Resources/Snippets/ClauseAI.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Clause MadCap.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStylesheets/Footer_table.css" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+    <Link
+      Url="https://eur-lex.europa.eu/search.html?scope=EURLEX&amp;text=mdr&amp;lang=en&amp;type=quick&amp;qid=1746377583284" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="http://linkedin.com/in/turowskadi/" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+    <Link
+      Url="http://github.com/diana-t1" />
+    <Link
+      Url="Content/Resources/Images/Assets/Icons/SocialMedia/git2.png" />
+    <Link
+      Url="Content/Resources/Snippets/ClauseAI.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Clause MadCap.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.Author" />
+    <Variable
+      Name="General.Year" />
+    <Variable
+      Name="General.Email" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStylesheets/Footer_table.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

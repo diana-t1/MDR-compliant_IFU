@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/E_How_to_build_IFU/How_to_build_IFU.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/E_How_to_build_IFU/How_to_build_IFU.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

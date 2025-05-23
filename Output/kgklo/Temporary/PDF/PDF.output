@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/kgklo/PDF/PDF.pdf"
+  BuildVersion="20.1.9037.40627">
+  <Files>
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Custom/MDR_classification.png" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Hero-Background.jpg" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Custom/doctor-with-medical-mask-checking-her-notes.jpg" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Custom/ISO_7010_M002.svg.png" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/TableStylesheets/MainTableStyle.css" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/kgklo/PDF/PDF.pdf" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/kgklo/Temporary/PDF/PDF_56BD039B/Resources/Images/Custom/language_req_diagram.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

@@ -5,7 +5,6 @@
 ######################################################################################
 
 # MadCap file patterns
-/Output
 /Analyzer
 /FileSync
 /Project/Users

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Frontmatter-Topics/Title.htm" />
+    <Link
+      Url="Content/Resources/PageLayouts/Frontmatter.flpgl" />
+    <Link
+      Url="Content/Introduction-Topics/Welcome.htm" />
+    <Link
+      Url="Content/Resources/PageLayouts/Chapters.flpgl" />
+    <Link
+      Url="Content/A_MDR_basics/What_is_MDR.htm" />
+    <Link
+      Url="Content/A_MDR_basics/What_is_IFU.htm" />
+    <Link
+      Url="Content/A_MDR_basics/Is_this_guide_for_You.htm" />
+    <Link
+      Url="Content/A_MDR_basics/Why_is_it_important.htm" />
+    <Link
+      Url="Content/B_MDR_requirements/Understanding_MDR_requirements.htm" />
+    <Link
+      Url="Content/B_MDR_requirements/Applicable_medical_device_classes.htm" />
+    <Link
+      Url="Content/B_MDR_requirements/Key_MDR_compliance_criteria.htm" />
+    <Link
+      Url="Content/C_Gathering_information/Gathering_information.htm" />
+    <Link
+      Url="Content/D_What_to_consider/What_to_consider.htm" />
+    <Link
+      Url="Content/D_What_to_consider/Language_and_translation.htm" />
+    <Link
+      Url="Content/D_What_to_consider/Accessibility.htm" />
+    <Link
+      Url="Content/D_What_to_consider/Publishing_format.htm" />
+    <Link
+      Url="Content/E_How_to_build_IFU/How_to_build_IFU.htm" />
+    <Link
+      Url="Content/E_How_to_build_IFU/Essential_info.htm" />
+    <Link
+      Url="Content/E_How_to_build_IFU/Clear_warnings.htm" />
+    <Link
+      Url="Content/E_How_to_build_IFU/Step_by_step_instructions.htm" />
+    <Link
+      Url="Content/E_How_to_build_IFU/Maintenance_cleaning_disposal.htm" />
+    <Link
+      Url="Content/F_Helpful_resources/Helpful_resources.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

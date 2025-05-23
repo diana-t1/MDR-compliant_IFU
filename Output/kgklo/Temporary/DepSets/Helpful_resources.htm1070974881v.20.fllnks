@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Helpful resources"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/" />
+    <Link
+      Url="https://health.ec.europa.eu/document/download/aa9760e3-c864-4173-8b16-d790dac66d74_en" />
+    <Link
+      Url="https://open.spotify.com/show/2KLLbpJkiR25ql1Qdc4Frg" />
+    <Link
+      Url="https://www.wcag.com/resource/what-is-wcag/" />
+    <Link
+      Url="https://www.w3.org/" />
+    <Link
+      Url="https://userguiding.com/blog" />
+    <Link
+      Url="https://www.linkedin.com/advice/0/what-key-principles-standards-technical" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#tit_1" />
+    <Link
+      Url="https://health.ec.europa.eu/document/download/aa9760e3-c864-4173-8b16-d790dac66d74_en?filename=md_sector_lang-req-table-mdr.pdf" />
+    <Link
+      Url="https://open.spotify.com/show/2KLLbpJkiR25ql1Qdc4Frg" />
+    <Link
+      Url="https://www.wcag.com/resource/what-is-wcag/" />
+    <Link
+      Url="https://www.w3.org/" />
+    <Link
+      Url="https://userguiding.com/blog" />
+    <Link
+      Url="https://www.linkedin.com/advice/0/what-key-principles-standards-technical" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
