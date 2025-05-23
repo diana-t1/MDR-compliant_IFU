@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="diana.t@vp.pl">diana.t@vp.pl</Variable>
+  <Variable
+    Name="Author"
+    Comment=""
+    EvaluatedDefinition="Diana Turowska">Diana Turowska</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2025-05-19T01:43:50.1080235+02:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStylesheets/Footer_table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:bodyProxy class="body-container" />
+        <div class="home-footer" style="background-color: #a9a9a9;padding-left: 2%;padding-right: 2%;padding-top: 1%;padding-bottom: 1%;">
+            <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../TableStylesheets/Footer_table.css');height: 0px;" class="TableStyle-Footer_table" cellspacing="1">
+                <col class="TableStyle-Footer_table-Column-Column1" style="width: 33%;" />
+                <col class="TableStyle-Footer_table-Column-Column1" style="width: 33%;" />
+                <col class="TableStyle-Footer_table-Column-Column1" />
+                <tbody>
+                    <tr class="TableStyle-Footer_table-Body-Body1">
+                        <td style="vertical-align: top;" class="TableStyle-Footer_table-BodyE-Column1-Body1">
+                            <p style="text-align: center;"><a href=""><img src="../Images/Assets/Icons/MainIcons/Solutions-white.png" style="width: 25px;height: 25px;" /></a>
+                                <br style="font-size: 8pt;font-family: 'Segoe UI Variable Display';" />
+                            </p>
+                        </td>
+                        <td style="text-align: right;color: #ffffff;vertical-align: top;" class="TableStyle-Footer_table-BodyE-Column1-Body1">
+                            <div style="vertical-align: top;text-align: center;line-height: normal;">
+                                <p>
+                                    <img src="../Images/Assets/Icons/MainIcons/Clients-white.png" style="width: 26px;height: 26px;" />
+                                </p>
+                            </div>
+                        </td>
+                        <td style="text-align: center;" class="TableStyle-Footer_table-BodyD-Column1-Body1">
+                            <p>
+                                <img src="../Images/Assets/Icons/MainIcons/Contact-white.png" />
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-Footer_table-Body-Body1">
+                        <td style="text-align: center;" class="TableStyle-Footer_table-BodyE-Column1-Body1">
+                            <p>SEE MORE</p>
+                            <p><a href="https://eur-lex.europa.eu/search.html?scope=EURLEX&amp;text=mdr&amp;lang=en&amp;type=quick&amp;qid=1746377583284" alt="A hyperlink to and official website of the European Union with &quot;MDR&quot; search results" title="A hyperlink to and official website of the European Union with &quot;MDR&quot; search results" class="footer_ref">eur-lex.europa.eu</a>
+                            </p>
+                        </td>
+                        <td style="text-align: center;font-size: 14pt;" class="TableStyle-Footer_table-BodyE-Column1-Body1">
+                            <p class="footer-sub" style="font-size: 14pt;">Created by <MadCap:variable name="General.Author" /></p>
+                            <p class="footer-sub" style="font-size: 12pt;"><MadCap:variable name="General.Year" />
+                            </p>
+                        </td>
+                        <td style="text-align: center;font-size: 14pt;" class="TableStyle-Footer_table-BodyD-Column1-Body1">
+                            <p class="footer-sub"><MadCap:variable name="General.Email" style="font-size: 14pt;" />
+                            </p>
+                            <p class="footer-sub"><a href="http://linkedin.com/in/turowskadi/" alt="LinkedIn icon with Hyperlink to creator's profile" title="LinkedIn icon with Hyperlink to creator's profile" target="_blank"><img src="../Images/Assets/Icons/SocialMedia/LI-white.png" style="width: 29px;height: 29px;" /></a><a href="http://github.com/diana-t1" alt="Github icon with Hyperlink to creator's profile" target="_blank" title="Github icon with Hyperlink to creator's profile"> <img src="../Images/Assets/Icons/SocialMedia/git2.png" style="width: 29px;height: 29px;" /></a>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-Footer_table-Body-Body1">
+                        <td class="TableStyle-Footer_table-BodyB-Column1-Body1">
+                            <p style="text-align: left;"><span style="font-size: 8pt;"><MadCap:snippetText src="../Snippets/ClauseAI.flsnp" /></span>
+                            </p>
+                        </td>
+                        <td class="TableStyle-Footer_table-BodyB-Column1-Body1">&#160;</td>
+                        <td class="TableStyle-Footer_table-BodyA-Column1-Body1">
+                            <p style="text-align: right;"><span style="font-size: 8pt;"><MadCap:snippetText src="../Snippets/Clause MadCap.flsnp" />e</span>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

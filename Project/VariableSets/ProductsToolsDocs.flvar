@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Title"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="Guide for creating MDR-compliant Instructions for use">Guide for creating MDR-compliant Instructions for use</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition=""></Variable>
+  <Variable
+    Name="Time Tracking Software"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+  <Variable
+    Name="Summary Plan Descriptions"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+</CatapultVariableSet>
